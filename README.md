@@ -149,7 +149,7 @@ php artisan schedule:work
 
 </details>
 
-## 🔮 Future Work
+## 🔮 Future Work (Never) xd
 
 - [ ] SMS / email reminders 24 hours before appointments
 - [ ] Mobile app (Flutter)
