@@ -1,0 +1,453 @@
+[
+  {
+    "name": "3D Maxpider Kagu Series",
+    "description": "Three-layer structure for waterproof protection and sound deadening. Sleek carbon fiber embossed pattern.",
+    "category": "Car Mats",
+    "price": 350.0,
+    "estimated_duration": 10,
+    "meta_data": {
+      "vehicle_type": "Sedan"
+    },
+    "image_path": "services/X917qxfBMS9BO5CMGV5382oH7wImUyLkBzvy99s7.jpg"
+  },
+  {
+    "name": "3M Nomad Car Mat",
+    "description": "Resilient vinyl loop construction that hides dirt and moisture. Durable backing prevents slipping.",
+    "category": "Car Mats",
+    "price": 150.0,
+    "estimated_duration": 10,
+    "meta_data": {
+      "vehicle_type": "Sedan"
+    },
+    "image_path": "services/3m6bz3Nr67n5B7bSPNbIoUFGXoGRIa3Et5YgpMOc.webp"
+  },
+  {
+    "name": "Carmat.my Premium Coil Mat",
+    "description": "High-density coil structure for maximum comfort and dirt trapping. Odourless and eco-friendly materials.",
+    "category": "Car Mats",
+    "price": 99.0,
+    "estimated_duration": 10,
+    "meta_data": {
+      "vehicle_type": "MPV"
+    },
+    "image_path": "services/mkhyIYjIsmR0g5reogeu4NZFSlOUNik8jWO54729.jpg"
+  },
+  {
+    "name": "Dodomat Dual Layer Car Mat",
+    "description": "Innovative dual-layer design traps dust and liquid effortlessly. Easily detached for a quick wash.",
+    "category": "Car Mats",
+    "price": 139.0,
+    "estimated_duration": 10,
+    "meta_data": {
+      "vehicle_type": "SUV"
+    },
+    "image_path": "services/UlXpvaJ9TlwHkufY8j1HFXCRWhGmVOpxXAkGg1vF.jpg"
+  },
+  {
+    "name": "Enzo Custom Fit Car Mat",
+    "description": "Precision laser-measured to fit perfectly. Premium anti-slip backing with a luxurious finishing touch.",
+    "category": "Car Mats",
+    "price": 280.0,
+    "estimated_duration": 10,
+    "meta_data": {
+      "vehicle_type": "Hatchback"
+    },
+    "image_path": "services/MWyOjRxRxulmbBRiW3Az1BAt7JCragqZoW2wOP1W.jpg"
+  },
+  {
+    "name": "Trapo Classic Mark III Car Mat",
+    "description": "Anti-bacterial, easy to clean, and traps dirt effectively. Custom fitted for your vehicle model.",
+    "category": "Car Mats",
+    "price": 199.0,
+    "estimated_duration": 10,
+    "meta_data": {
+      "vehicle_type": "Hatchback"
+    },
+    "image_path": "services/vnvGcHGVdgxENKnVlOeIAZeTzW4a1rdpLndLxvE8.jpg"
+  },
+  {
+    "name": "70mai Dash Cam Pro Plus+ A500S",
+    "description": "2.7K Ultra HD resolution with built-in GPS and ADAS. Provides comprehensive front and rear surveillance.",
+    "category": "Dashcams",
+    "price": 406.99,
+    "estimated_duration": 120,
+    "meta_data": {
+      "camera_type": "Front Only"
+    },
+    "image_path": "services/MZQpvOFZMsxnUy1EAUvwmtXtAjFORLyOi1VaO5tg.webp"
+  },
+  {
+    "name": "BlackVue DR900X-2CH 4K",
+    "description": "Dual-channel 4K Cloud dashcam. Features ultra-wide 162-degree angle and seamless mobile app integration.",
+    "category": "Dashcams",
+    "price": 2199.0,
+    "estimated_duration": 120,
+    "meta_data": {
+      "camera_type": "Front Only"
+    },
+    "image_path": "services/BIEuc1AwZM4slfksQGnlGH5npFtXhnENkq7IVmET.jpg"
+  },
+  {
+    "name": "DDPAI Mini 5 4K Dashcam",
+    "description": "Real 4K UHD recording with 64GB built-in eMMC storage. Features 5GHz Wi-Fi for fast video downloads.",
+    "category": "Dashcams",
+    "price": 429.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "camera_type": "Front & Rear"
+    },
+    "image_path": "services/dVBMWtga0yp7V4xHJfesp7gBrPKEZnDimBjt6K8R.png"
+  },
+  {
+    "name": "Garmin Dash Cam 67W",
+    "description": "Compact, voice-controlled 1440p camera. Extra-wide 180-degree field of view captures cross-traffic details.",
+    "category": "Dashcams",
+    "price": 1050.0,
+    "estimated_duration": 120,
+    "meta_data": {
+      "camera_type": "Front & Rear"
+    },
+    "image_path": "services/VlNQSash1LLbhX1XamqAN85sCSFffZuI6VuNLQKS.webp"
+  },
+  {
+    "name": "Mio MiVue 818 2K",
+    "description": "2K QHD 1440P recording with built-in Wi-Fi and Bluetooth. Includes Smart Alert for safety camera warnings.",
+    "category": "Dashcams",
+    "price": 599.0,
+    "estimated_duration": 180,
+    "meta_data": {
+      "camera_type": "4K Ultra HD"
+    },
+    "image_path": "services/XuSuRjBQ03fpAxbPZwgKdhFO6WXH42ENn4INpTIY.jpg"
+  },
+  {
+    "name": "Thinkware U1000 4K UHD",
+    "description": "Top-tier 4K resolution with Super Night Vision 2.0. Advanced parking surveillance mode and cloud connectivity.",
+    "category": "Dashcams",
+    "price": 1899.0,
+    "estimated_duration": 120,
+    "meta_data": {
+      "camera_type": "4K Ultra HD"
+    },
+    "image_path": "services/NteEyMbl6qXyPaADU2hY2FaRT1UDQTLPmzGU6f3M.jpg"
+  },
+  {
+    "name": "Bosch Premium Oil Filter",
+    "description": "Exclusive FILTECH media technology screens out more harmful contaminants for greater engine protection.",
+    "category": "Maintenance",
+    "price": 25.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "service_type": "Inspection"
+    },
+    "image_path": "services/dqLHFy20bLHnAua5GzBrYlVtCIBXVFVv6Kinkt4q.jpg"
+  },
+  {
+    "name": "Castrol EDGE 5W-40 Advanced Full Synthetic",
+    "description": "Fluid TITANIUM Technology transforms to be stronger under pressure, reducing power-robbing friction.",
+    "category": "Maintenance",
+    "price": 165.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "service_type": "Fully Synthetic"
+    },
+    "image_path": "services/Che9QB6YuTcat8gjNDmd2Bln3apMhpqXNnz1aYSF.jpg"
+  },
+  {
+    "name": "Mobil 1 Extended Performance 5W-30",
+    "description": "Advanced full synthetic formula designed to keep your engine running like new for up to 20,000 miles.",
+    "category": "Maintenance",
+    "price": 180.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "service_type": "Mineral Oil"
+    },
+    "image_path": "services/2NppqstH1B1n8pLih8IknwlrRWgaSkU3tXYM8Cpr.jpg"
+  },
+  {
+    "name": "Motul 8100 X-cess 5W-40",
+    "description": "100% Synthetic lubricant designed for powerful and recent cars. Offers excellent high temperature protection.",
+    "category": "Maintenance",
+    "price": 190.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "service_type": "Inspection"
+    },
+    "image_path": "services/ObLEBq3tdPUxIA1okYcJXo09TrIGhYZdk9Uedqwi.webp"
+  },
+  {
+    "name": "Petronas Syntium 3000 E 5W-40",
+    "description": "Engineered with °CoolTech™ to fight excessive engine heat, ensuring optimal engine performance and efficiency.",
+    "category": "Maintenance",
+    "price": 125.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "service_type": "Fully Synthetic"
+    },
+    "image_path": "services/BpvMgxI8cg9AfoYMKdrYBDw1iJinSgxdjYkU8bMh.png"
+  },
+  {
+    "name": "Shell Helix Ultra 5W-40 Fully Synthetic",
+    "description": "Formulated with PurePlus Technology. Provides ultimate cleansing and protection for high-performance engines.",
+    "category": "Maintenance",
+    "price": 155.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "service_type": "Semi Synthetic"
+    },
+    "image_path": "services/CBg7mTSPBVNhPsf4pLSsGTLXB4zgYpQZOGj8ti3G.jpg"
+  },
+  {
+    "name": "3M Crystalline Automotive Window Film",
+    "description": "Rejects more heat than many dark films without changing your car's appearance. 99.9% UV protection.",
+    "category": "Tinting Films",
+    "price": 2499.0,
+    "estimated_duration": 2000,
+    "meta_data": {
+      "vehicle_type": "MPV"
+    },
+    "image_path": "services/XHZSsusBgeIAMA0tzbk1DlrYF6JaCLuwXQm3SIWH.webp"
+  },
+  {
+    "name": "ClearShield Pro Premium Tint",
+    "description": "Optically clear, high-grade tint that offers supreme UV rejection while maintaining perfect nighttime visibility.",
+    "category": "Tinting Films",
+    "price": 899.0,
+    "estimated_duration": 240,
+    "meta_data": {
+      "vehicle_type": "SUV"
+    },
+    "image_path": "services/mOjoyoe61ssiN8DhmuKULutJSlnly1i5Crxsv82Y.jpg"
+  },
+  {
+    "name": "LLumar Platinum Series",
+    "description": "Advanced ceramic technology ensuring maximum heat rejection. Does not interfere with GPS or cellular signals.",
+    "category": "Tinting Films",
+    "price": 1850.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "vehicle_type": "Sedan"
+    },
+    "image_path": "services/OUl1gNbZvo3w025W4oX9LloaXFt3SHiY0Vyp3S7N.jpg"
+  },
+  {
+    "name": "Ray-Ban Auto Premium Ceramic Tint",
+    "description": "Nanotechnology film offering high durability, excellent glare reduction, and superior shatter resistance.",
+    "category": "Tinting Films",
+    "price": 650.0,
+    "estimated_duration": 180,
+    "meta_data": {
+      "vehicle_type": "MPV"
+    },
+    "image_path": "services/HGGYzhFMm9qajUqMlyXcK66y1HIJgPVQZjE7erpg.png"
+  },
+  {
+    "name": "Solar Gard VortexIR",
+    "description": "Deep black, premium ceramic tint. Absorbs heat and reduces glare for a comfortable, sleek driving experience.",
+    "category": "Tinting Films",
+    "price": 1450.0,
+    "estimated_duration": 180,
+    "meta_data": {
+      "vehicle_type": "SUV"
+    },
+    "image_path": "services/hLrqWmpdCLZs2ncCTGQsHoZf3lLpUFgCCeQiw1An.jpg"
+  },
+  {
+    "name": "V-Kool Elite Package",
+    "description": "Spectrally selective technology that transmits high visible light while blocking over 94% of infrared heat.",
+    "category": "Tinting Films",
+    "price": 3199.0,
+    "estimated_duration": 180,
+    "meta_data": {
+      "vehicle_type": "Hatchback"
+    },
+    "image_path": "services/aCGVgwjR5fVkYqLXOdURD59SwBIeUgm7fLd7Kmfe.jpg"
+  },
+  {
+    "name": "Bridgestone Potenza RE004",
+    "description": "Aggressive tread pattern for maximum cornering performance. Engineered for drivers who demand sharp responsiveness.",
+    "category": "Tyres",
+    "price": 380.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "17\""
+    },
+    "image_path": "services/nDxDgScvU0WkxuKzbOXEJecmEWHKVE2dwmp4KkVo.jpg"
+  },
+  {
+    "name": "Continental",
+    "description": "185/60R15 84H CONTINENTAL CC7",
+    "category": "Tyres",
+    "price": 265.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "15\""
+    },
+    "image_path": "services/72pRCxtDD5F1HXI84PBmVh0m86UFIuvjZcTfJ9rl.jpg"
+  },
+  {
+    "name": "Continental UltraContact UC7",
+    "description": "Advanced noise-breaker technology for a whisper-quiet ride. Enhanced grip and shorter braking distance on wet roads.",
+    "category": "Tyres",
+    "price": 250.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "15\""
+    },
+    "image_path": "services/mUxzlUF2JP4t4WYJS5r3oDCRouu07XPGbWjNwUlL.jpg"
+  },
+  {
+    "name": "Dunlop SP Sport Maxx 050+",
+    "description": "Premium asymmetric tread design for luxury SUVs and sedans. Exceptional high-speed stability and handling.",
+    "category": "Tyres",
+    "price": 500.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "15\""
+    },
+    "image_path": "services/d9Zsjz9PKJMxd1gZwPnYwMNcGoHnsf29fFPlTQF1.jpg"
+  },
+  {
+    "name": "Goodyear Assurance TripleMax 2",
+    "description": "HydroTred technology for superior wet braking. Optimised cavity footprint ensures maximum contact and durability.",
+    "category": "Tyres",
+    "price": 220.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "18\""
+    },
+    "image_path": "services/GwMiTRS4q4d7angtpKSLws6FSI6ox30MtgA3wj3I.jpg"
+  },
+  {
+    "name": "Michelin",
+    "description": "Michelin Primacy 4 ST",
+    "category": "Tyres",
+    "price": 300.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "16\""
+    },
+    "image_path": "services/h8DK3QHlfDV3RsPhgOf40Hh2GBakDeNftiQ4FMO0.webp"
+  },
+  {
+    "name": "Michelin Pilot Sport 5",
+    "description": "Precision steering and dynamic response. Designed to offer excellent longevity and high performance for sports cars.",
+    "category": "Tyres",
+    "price": 650.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "16\""
+    },
+    "image_path": "services/y8mKBLmw4PKygZtQ4u8lTPOwVCuObgQCvB2JisQ4.jpg"
+  },
+  {
+    "name": "Pirelli",
+    "description": "185/55 R15 82H Pirelli P7as(KS)",
+    "category": "Tyres",
+    "price": 315.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "15\""
+    },
+    "image_path": "services/B6blznzd0AckdPkIfjPHSvtUoOUxlub9kLbLzV8P.jpg"
+  },
+  {
+    "name": "Pirelli Cinturato P7",
+    "description": "Eco-friendly high-performance tyre. Reduces fuel consumption and CO2 emissions without compromising safety.",
+    "category": "Tyres",
+    "price": 450.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "19\""
+    },
+    "image_path": "services/STlBObec9XYA6Tj25jeAg48vXinbI9VLGAYE0cRY.jpg"
+  },
+  {
+    "name": "bridgestone",
+    "description": "Bridgestone Potenza RE004 195/55 R15",
+    "category": "Tyres",
+    "price": 295.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "15\""
+    },
+    "image_path": "services/JUAW48nIqSDvNWqRop5IYAAi7WtnOFJh0t2ndBhU.png"
+  },
+  {
+    "name": "goodyear",
+    "description": "Goodyear 185 65 R15 Tyres",
+    "category": "Tyres",
+    "price": 400.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "tyre_size": "15\""
+    },
+    "image_path": "services/5f2f65eWt9RHbzSMwpT0cO3gcsG62ZIFZvMPiidI.jpg"
+  },
+  {
+    "name": "Bosch Aerotwin Flat Wiper Blades",
+    "description": "Dual micro-edge rubber ensures quiet and streak-free wiping. Evodium spring strip for uniform pressure.",
+    "category": "Wipers",
+    "price": 85.0,
+    "estimated_duration": 15,
+    "meta_data": {
+      "wiper_type": "Silicone Blade"
+    },
+    "image_path": "services/Dhy880KnuNAMKT7Lnzi2cZSScyXar7Ila0Zzulg6.jpg"
+  },
+  {
+    "name": "Denso Designer Wiper Blade",
+    "description": "Sleek aerodynamic design matching OEM specifications. Graphite coating for smooth, chatter-free operation.",
+    "category": "Wipers",
+    "price": 65.0,
+    "estimated_duration": 15,
+    "meta_data": {
+      "wiper_type": "Aero Flat Blade"
+    },
+    "image_path": "services/C7rWKZoDrL1zAz3x0DrgaRVXnb1bqdYQoKEpRxSV.jpg"
+  },
+  {
+    "name": "Michelin Stealth Hybrid Wiper",
+    "description": "Smart Flex technology adapts to your windshield curve for superior contact and all-weather performance.",
+    "category": "Wipers",
+    "price": 95.0,
+    "estimated_duration": 60,
+    "meta_data": {
+      "wiper_type": "Silicone Blade"
+    },
+    "image_path": "services/94VAR2WYukXKisq1J5lpcVXC8Yf46SkgHssGd1PE.jpg"
+  },
+  {
+    "name": "PIAA Super Silicone Wiper Blade",
+    "description": "Patented silicone technology coats the windshield with a water-repellent barrier. Durable and long-lasting.",
+    "category": "Wipers",
+    "price": 135.0,
+    "estimated_duration": 15,
+    "meta_data": {
+      "wiper_type": "Aero Flat Blade"
+    },
+    "image_path": "services/n2TaRlC1elWdK3Y6YGv3kuTGooBvKuCyZVOvATU9.jpg"
+  },
+  {
+    "name": "Trico Force Premium Beam Wiper",
+    "description": "High-wind beam blade with a swept-wing spoiler that slices through wind speeds up to 135 mph.",
+    "category": "Wipers",
+    "price": 110.0,
+    "estimated_duration": 15,
+    "meta_data": {
+      "wiper_type": "Standard"
+    },
+    "image_path": "services/PFLHQKPnTHug6KJd5R977wRGQFXbnPspem5x0pZ0.png"
+  },
+  {
+    "name": "Valeo First Multiconnection Wiper",
+    "description": "Innovative pyramid design spoiler for optimized aerodynamic performance. Easy, universal installation.",
+    "category": "Wipers",
+    "price": 45.0,
+    "estimated_duration": 15,
+    "meta_data": {
+      "wiper_type": "Standard"
+    },
+    "image_path": "services/asdhRi7fEbunfBkFwbcT708a4W8mgNW2G8G1Mz5f.jpg"
+  }
+]

@@ -1,0 +1,37 @@
+<?php
+return [
+    'last_updated' => '最后更新:2026 年 6 月',
+    'contact_title' => '联系我们',
+
+    'privacy_title' => '隐私政策',
+    'privacy_intro' => 'TRB Auto Car Care(以下简称"我们")尊重您的隐私。本政策说明当您预订服务或下单时,我们会收集哪些信息,以及如何使用这些信息。',
+    'privacy_s1_title' => '我们收集的信息',
+    'privacy_s1_body' => '为了提供并改善我们的服务,我们会收集您的姓名、联系方式、车辆信息,以及预订或订单记录。',
+    'privacy_s2_title' => '我们如何使用您的信息',
+    'privacy_s2_body' => '您的数据用于处理预订和订单、发送服务通知,以及提供客户支持。我们不会将您的个人数据出售给第三方。',
+    'privacy_s3_title' => '数据安全',
+    'privacy_s3_body' => '我们采取合理的技术措施保护您的信息。您可以随时在账户设置中申请查看或删除您的账户数据。',
+    'privacy_contact_body' => '如有任何隐私相关问题,请通过 trbautocarcare@gmail.com 联系我们。',
+
+    'returns_title' => '退货政策',
+    'returns_intro' => '本退货政策适用于通过我们商店购买的实体商品(例如轮胎、配件),不适用于已完成的服务预订。',
+    'returns_s1_title' => '退货条件',
+    'returns_s1_body' => '商品如未使用且保持原始状态,可在送达后 7 天内退货。',
+    'returns_s2_title' => '退款流程',
+    'returns_s2_body' => '退货经审核通过并收到后,退款将在 14 个工作日内退回原支付方式。',
+    'returns_s3_title' => '服务预订',
+    'returns_s3_body' => '已付款的服务预订可在预约时间之前,按预订时显示的取消条款进行取消。',
+    'returns_contact_body' => '如有任何退货相关问题,请通过 trbautocarcare@gmail.com 联系我们。',
+
+    'terms_title' => '条款与条件',
+    'terms_intro' => '使用 TRB Auto Car Care 平台,即表示您同意以下条款。',
+    'terms_s1_title' => '服务使用',
+    'terms_s1_body' => '我们的平台为客户对接经过验证的维修厂,提供汽车保养预订和产品购买服务。',
+    'terms_s2_title' => '预订与付款',
+    'terms_s2_body' => '所有预订均须视可用情况确认。价格在结账时以马币(MYR)显示。',
+    'terms_s3_title' => '用户责任',
+    'terms_s3_body' => '用户须提供准确的车辆和联系信息,以确保服务能够正常进行。',
+    'terms_s4_title' => '责任限制',
+    'terms_s4_body' => '本平台按"现状"提供。对于因您使用本平台而产生的任何间接、附带或后果性损失,我们概不负责。',
+    'terms_contact_body' => '如对本条款有任何疑问,请通过 trbautocarcare@gmail.com 联系我们。',
+];

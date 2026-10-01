@@ -1,0 +1,37 @@
+<?php
+return [
+    'last_updated' => 'Kemas kini terakhir: Jun 2026',
+    'contact_title' => 'Hubungi',
+
+    'privacy_title' => 'Dasar Privasi',
+    'privacy_intro' => 'TRB Auto Car Care ("kami") menghormati privasi anda. Dasar ini menerangkan maklumat yang kami kumpulkan apabila anda menempah perkhidmatan atau membuat pesanan, dan cara kami menggunakannya.',
+    'privacy_s1_title' => 'Maklumat Yang Kami Kumpulkan',
+    'privacy_s1_body' => 'Kami mengumpulkan nama, butiran hubungan, maklumat kenderaan, serta sejarah tempahan atau pesanan anda untuk menyediakan dan menambah baik perkhidmatan kami.',
+    'privacy_s2_title' => 'Cara Kami Menggunakan Maklumat Anda',
+    'privacy_s2_body' => 'Data anda digunakan untuk memproses tempahan dan pesanan, menghantar kemas kini perkhidmatan, serta memberikan sokongan pelanggan. Kami tidak menjual data peribadi anda kepada pihak ketiga.',
+    'privacy_s3_title' => 'Keselamatan Data',
+    'privacy_s3_body' => 'Kami menggunakan langkah teknikal yang munasabah untuk melindungi maklumat anda. Anda boleh meminta akses atau pemadaman data akaun anda pada bila-bila masa melalui tetapan akaun anda.',
+    'privacy_contact_body' => 'Untuk sebarang pertanyaan privasi, hubungi kami di trbautocarcare@gmail.com.',
+
+    'returns_title' => 'Dasar Pemulangan',
+    'returns_intro' => 'Dasar pemulangan ini terpakai untuk produk fizikal (cth. tayar, aksesori) yang dibeli melalui kedai kami, dan tidak terpakai untuk tempahan perkhidmatan yang telah selesai.',
+    'returns_s1_title' => 'Kelayakan',
+    'returns_s1_body' => 'Barangan boleh dipulangkan dalam tempoh 7 hari selepas penghantaran sekiranya tidak digunakan dan dalam keadaan asal.',
+    'returns_s2_title' => 'Proses Bayaran Balik',
+    'returns_s2_body' => 'Setelah pemulangan yang diluluskan diterima, bayaran balik akan dikeluarkan ke kaedah pembayaran asal dalam tempoh 14 hari bekerja.',
+    'returns_s3_title' => 'Tempahan Perkhidmatan',
+    'returns_s3_body' => 'Tempahan perkhidmatan yang telah dibayar boleh dibatalkan sebelum masa yang dijadualkan mengikut terma pemb pembatalan yang ditunjukkan semasa tempahan.',
+    'returns_contact_body' => 'Untuk sebarang pertanyaan pemulangan, hubungi kami di trbautocarcare@gmail.com.',
+
+    'terms_title' => 'Terma & Syarat',
+    'terms_intro' => 'Dengan menggunakan platform TRB Auto Car Care, anda bersetuju dengan terma ini.',
+    'terms_s1_title' => 'Penggunaan Perkhidmatan',
+    'terms_s1_body' => 'Platform kami menghubungkan pelanggan dengan bengkel yang disahkan untuk tempahan penjagaan kereta dan pembelian produk.',
+    'terms_s2_title' => 'Tempahan & Pembayaran',
+    'terms_s2_body' => 'Semua tempahan disahkan tertakluk kepada ketersediaan. Harga dipaparkan semasa pembayaran dalam MYR (Ringgit Malaysia).',
+    'terms_s3_title' => 'Tanggungjawab Pengguna',
+    'terms_s3_body' => 'Pengguna mesti memberikan maklumat kenderaan dan hubungan yang tepat untuk memastikan perkhidmatan dapat disampaikan dengan betul.',
+    'terms_s4_title' => 'Had Liabiliti',
+    'terms_s4_body' => 'Platform ini disediakan "sebagaimana adanya". Kami tidak bertanggungjawab atas sebarang kerosakan tidak langsung, sampingan, atau berbangkit yang timbul daripada penggunaan platform ini.',
+    'terms_contact_body' => 'Jika anda mempunyai sebarang soalan tentang terma ini, hubungi kami di trbautocarcare@gmail.com.',
+];

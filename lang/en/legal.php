@@ -1,0 +1,37 @@
+<?php
+return [
+    'last_updated' => 'Last updated: June 2026',
+    'contact_title' => 'Contact',
+
+    'privacy_title' => 'Privacy Policy',
+    'privacy_intro' => 'TRB Auto Car Care ("we", "us") respects your privacy. This policy explains what information we collect when you book services or place orders, and how we use it.',
+    'privacy_s1_title' => 'Information We Collect',
+    'privacy_s1_body' => 'We collect your name, contact details, vehicle information, and booking or order history in order to provide and improve our services.',
+    'privacy_s2_title' => 'How We Use Your Information',
+    'privacy_s2_body' => 'Your data is used to process bookings and orders, send service updates, and provide customer support. We do not sell your personal data to third parties.',
+    'privacy_s3_title' => 'Data Security',
+    'privacy_s3_body' => 'We apply reasonable technical measures to protect your information. You may request access to or deletion of your account data at any time from your account settings.',
+    'privacy_contact_body' => 'For any privacy questions, contact us at trbautocarcare@gmail.com.',
+
+    'returns_title' => 'Return Policy',
+    'returns_intro' => 'This return policy applies to physical products (e.g., tyres, accessories) purchased through our store, and does not apply to completed service bookings.',
+    'returns_s1_title' => 'Eligibility',
+    'returns_s1_body' => 'Items may be returned within 7 days of delivery if they are unused and in their original condition.',
+    'returns_s2_title' => 'Refund Process',
+    'returns_s2_body' => 'Once an approved return is received, refunds are issued to the original payment method within 14 business days.',
+    'returns_s3_title' => 'Service Bookings',
+    'returns_s3_body' => 'Paid service bookings can be cancelled before the scheduled time according to the cancellation terms shown at the time of booking.',
+    'returns_contact_body' => 'For any return questions, contact us at trbautocarcare@gmail.com.',
+
+    'terms_title' => 'Terms & Conditions',
+    'terms_intro' => 'By using the TRB Auto Car Care platform, you agree to these terms.',
+    'terms_s1_title' => 'Use of Service',
+    'terms_s1_body' => 'Our platform connects customers with verified workshops for auto care bookings and product purchases.',
+    'terms_s2_title' => 'Bookings & Payments',
+    'terms_s2_body' => 'All bookings are confirmed subject to availability. Prices are shown at checkout in MYR (Malaysian Ringgit).',
+    'terms_s3_title' => 'User Responsibilities',
+    'terms_s3_body' => 'Users must provide accurate vehicle and contact information to ensure services can be properly delivered.',
+    'terms_s4_title' => 'Limitation of Liability',
+    'terms_s4_body' => 'The platform is provided "as is". We are not liable for any indirect, incidental, or consequential damages arising from your use of the platform.',
+    'terms_contact_body' => 'If you have any questions about these terms, contact us at trbautocarcare@gmail.com.',
+];
